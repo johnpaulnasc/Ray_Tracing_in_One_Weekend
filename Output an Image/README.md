@@ -1,6 +1,6 @@
 # Ray Tracing in One Weekend
 
-## 1. Output an Image
+## 1. Produzir/gerar uma imagem
 
 ### 1.1 O formato de imagem PPM
 
