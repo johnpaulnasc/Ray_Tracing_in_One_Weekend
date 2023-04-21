@@ -9,7 +9,7 @@ Sempre que você inicia um renderizador, precisa de uma maneira de ver uma image
 <img style="border-radius:50px;" src="https://raytracing.github.io/images/fig-1.01-ppm.jpg">
 
 Vamos criar um código em C++ para produzir algo assim:
- [Creating your first image](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
+ [Criando sua primeira imagem](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
 ```cpp
 #include <iostream>
 
