@@ -39,5 +39,4 @@ int main() {
     }
 }
 ```
- [Creating your first image](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
 
