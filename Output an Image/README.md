@@ -10,14 +10,5 @@ Sempre que você inicia um renderizador, precisa de uma maneira de ver uma image
 
 Let’s make some C++ code to output such a thing:
 
-\lstset{language=C++}
-
-\begin{lstlisting}
-#include <iostream>
-
-int main() {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
-}
-\end{lstlisting}
+- [[main.cc] Creating your first image](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
 
