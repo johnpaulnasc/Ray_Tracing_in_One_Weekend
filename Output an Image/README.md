@@ -39,4 +39,9 @@ int main() {
     }
 }
 ```
+Há algumas coisas para se observar nesse código:
 
+- Os pixels são escritos em linhas da esquerda para a direita.
+- As linhas são escritas de cima para baixo.
+- Por convenção, cada um dos componentes vermelho/verde/azul varia de 0,0 a 1,0. Mais tarde, relaxaremos essa restrição quando usarmos internamente alta faixa dinâmica, mas antes de saída, faremos a conversão para o intervalo de zero a um, então este código não será alterado.
+- O vermelho vai de totalmente desligado (preto) a totalmente ligado (vermelho brilhante) da esquerda para a direita, e o verde vai de preto na parte inferior a totalmente ligado na parte superior. Vermelho e verde juntos formam amarelo, então devemos esperar que o canto superior direito seja amarelo.
