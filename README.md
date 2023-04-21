@@ -1,2 +1,5 @@
-## Ray Tracing in One Weekend
-Repository for the study of ray tracing
+# Ray Tracing in One Weekend
+
+## 1.Output an Image
+
+###1.1O formato de imagem PPM
