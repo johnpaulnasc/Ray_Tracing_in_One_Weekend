@@ -1,5 +1,5 @@
 # Ray Tracing in One Weekend
 
-## 1.Output an Image
+## 1. Output an Image
 
-###1.1O formato de imagem PPM
+### 1.1 O formato de imagem PPM
