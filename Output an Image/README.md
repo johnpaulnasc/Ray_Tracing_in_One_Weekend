@@ -10,10 +10,9 @@ Sempre que você inicia um renderizador, precisa de uma maneira de ver uma image
 
 Let’s make some C++ code to output such a thing:
 
-\lstset{language=Cpp}
+\lstset{language=C++}
 
 \begin{lstlisting}
-
 #include <iostream>
 
 int main() {
