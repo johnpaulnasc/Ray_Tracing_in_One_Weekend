@@ -10,5 +10,5 @@ Sempre que você inicia um renderizador, precisa de uma maneira de ver uma image
 
 Let’s make some C++ code to output such a thing:
 
-- [[main.cc] Creating your first image](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
+ [[main.cc] Creating your first image](https://github.com/jonhpaul5/Ray_Tracing_in_One_Weekend/blob/master/Output%20an%20Image/ppmExemple.cpp)
 
