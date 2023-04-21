@@ -1,2 +1,2 @@
-## Ray_Tracing_in_One_Weekend
+## Ray Tracing in One Weekend
 Repository for the study of ray tracing
